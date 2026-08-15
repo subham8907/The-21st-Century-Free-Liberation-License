@@ -168,6 +168,15 @@ License, and not a doctrine to be enforced on Your descendants.
       governing Your modifications, provided that such terms do not displace
       the conditions of Section 5 as they apply to the Work.
 
+1.17 "Version" means a discrete release of the Work that the Licensor identifies
+      as such by a distinguishing version number, release date, tag, commit hash, or
+      other designation sufficient to distinguish it from any prior or subsequent
+      release of the Work. A Version is fixed as of the date it is first made
+      available under this License, and any modification, correction, or addition
+      made after that date constitutes a separate Version for purposes of this
+      License, regardless of whether it is distributed under the same name or
+      numbering scheme as a prior Version.
+
 2. GRANT OF RIGHTS LICENSE
 ---------------------------
 
