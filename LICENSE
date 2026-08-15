@@ -155,7 +155,7 @@ License, and not a doctrine to be enforced on Your descendants.
      fall outside the foregoing definition where the substance of the
      transaction is a transfer described in this definition.
 
-1.15 "Additional License Terms" means this License together with any
+1.15 "Additional License Terms and Conditions" means this License together with any
      additional or different terms and conditions that a Contributor
      attaches, in the form of an addendum, rider, or other supplemental
      terms, subject to the terms and conditions of this License.
@@ -331,9 +331,17 @@ the applicable Different License Terms and Conditions.
 Unless You explicitly state otherwise, any Contribution intentionally
 submitted for inclusion in the Work by You to the Licensor shall be under
 the terms and conditions of this License, without any Additional License
-Terms or any other conditions. Notwithstanding the above, nothing herein
+Terms and Conditions or any other conditions. Notwithstanding the above, nothing herein
 shall supersede or modify the terms of any separate license agreement You
 may have executed with Licensor regarding such Contributions.
+
+Override by Other Applicable Terms. Notwithstanding anything to the
+contrary in this Section, this Section may be overridden or modified by any
+Different License Terms and Conditions or any Additional License Terms that
+expressly apply to the Contribution, to the extent permitted under this
+License. Where such terms validly apply, the Contribution shall be subject
+to those terms together with, or in place of the provisions of this Section,
+as applicable under this License.
 
 7. MORAL RIGHTS
 -----------------
