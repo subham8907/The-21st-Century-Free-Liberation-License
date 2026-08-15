@@ -219,24 +219,31 @@ litigation is filed.
 4. CONTINUITY OF LICENSE; SUCCESSORS
 -------------------------------------
 
-4.1 This License, including the licenses granted under Sections 2 and 3, runs
-    with the copyright, patent, and other intellectual property rights in the
-    Work and each Contribution, and binds each Licensor, Contributor, and
-    Successor.
+The licenses, permissions, rights, and obligations arising under this License
+are intended to remain effective notwithstanding any transfer, succession,
+change in ownership or control, or other event affecting a Licensor,
+Contributor, or holder of Rights in the Work or any Contribution. Except to
+the extent that applicable law expressly provides otherwise, no such event
+shall revoke, diminish, impair, suspend, or otherwise adversely affect any
+license or permission previously granted to You under this License. Any
+Successor shall be bound to honor that is previously granted under this License,
+and any statutory termination of such licenses or permissions shall have only the
+effect expressly provided in this Section.
 
-4.2 No transfer, succession, death, dissolution, merger, acquisition,
+
+4.1 No transfer, succession, death, dissolution, merger, acquisition,
     reorganization, bankruptcy, insolvency proceeding, Change of Control, or
     other event described in the definition of "Successor" diminishes,
     suspends, terminates, impairs, or otherwise affects any license previously
     granted to You.
 
-4.3 Each Successor takes the Work and any applicable Contribution subject to
+4.2 Each Successor takes the Work and any applicable Contribution subject to
     the rights, permissions, licenses, and obligations previously granted or
     imposed under this License. A Successor may not unilaterally revoke,
     narrow, condition, or impose additional restrictions on any license or
     permission previously granted to You.
 
-4.4 A Successor may update or add copyright, patent, trademark, or attribution
+4.3 A Successor may update or add copyright, patent, trademark, or attribution
     notices in the Work, any Derivative Works, or the NOTICE to accurately
     reflect its succession to, or ownership of, the applicable rights.
     However, a Successor may not require or compel You to alter, remove, or
@@ -244,7 +251,7 @@ litigation is filed.
     received. Your refusal to comply with such a request does not constitute a
     breach of this License.
 
-4.5 Attempted Statutory Termination. If the Licensor, a Contributor, or any
+4.4 Attempted Statutory Termination. If the Licensor, a Contributor, or any
     Successor attempts to terminate this License, or any permission granted
     under it, by exercising any statutory right, when this License has not
     been violated, then, at the moment such termination is attempted, the
