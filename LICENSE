@@ -159,6 +159,9 @@ License, and not a doctrine to be enforced on Your descendants.
      additional or different terms and conditions that a Contributor
      attaches, in the form of an addendum, rider, or other supplemental
      terms, subject to the terms and conditions of this License.
+     For the avoidance of doubt, "Additional License Terms and Conditions"
+     excludes any terms that would constitute Different License Terms and Conditions
+     as defined in Section 1.16.
 
 1.16 "Different License Terms and Conditions" means any terms or conditions
       that are not originated by this License or Additional License Terms,
@@ -337,13 +340,14 @@ Terms and Conditions or any other conditions. Notwithstanding the above, nothing
 shall supersede or modify the terms of any separate license agreement You
 may have executed with Licensor regarding such Contributions.
 
-Override by Other Applicable Terms. Notwithstanding anything to the
-contrary in this Section, this Section may be overridden or modified by any
-Different License Terms and Conditions or any Additional License Terms that
-expressly apply to the Contribution, to the extent permitted under this
-License. Where such terms validly apply, the Contribution shall be subject
-to those terms together with, or in place of the provisions of this Section,
-as applicable under this License.
+Supplementation by Additional License Terms. Notwithstanding anything to
+the contrary in this Section, a Contributor may attach Additional License Terms
+that expressly apply to the Contribution, to the extent permitted under this License.
+Where such terms validly apply, the Contribution shall be subject to those terms together
+with, and not in place of, the provisions of this Section. No Additional License Terms
+may be construed to relieve a Contribution of the licensing obligations imposed
+by this Section, and any purported term to that effect is void and severable
+under Section 8.
 
 7. MORAL RIGHTS
 -----------------
