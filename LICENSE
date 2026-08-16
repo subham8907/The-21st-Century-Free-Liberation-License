@@ -40,7 +40,7 @@ License, and not a doctrine to be enforced on Your descendants.
 1.1  "License" means this document, the 21st Century Free Liberation License,
      together with the terms and conditions for use, reproduction, and
      distribution set forth in Sections 1 through 12 below, including their
-     subsections and the Appendix..
+     subsections and the Appendix A, and Appendix B.
 
 1.2  "Licensor" means the owner of the Rights, or an entity authorized by the
      owner of the Rights, that is granting the License.
@@ -71,7 +71,7 @@ License, and not a doctrine to be enforced on Your descendants.
 1.7  "Work" means the work of authorship or design, whether in Source or
      Object form, made available under the License, as indicated by a
      notice relating to Rights that is included in or attached to the work
-     (an example is provided in the Appendix below).
+     (an example is provided in the Appendix A below).
 
 1.8  "Derivative Works" means any work, whether in Source or Object form,
      that is based on (or derived from) the Work and for which the
@@ -492,7 +492,7 @@ liability.
 
 
 ------------------------------------------------------------------------------
-               APPENDIX: HOW TO APPLY THIS LICENSE TO YOUR WORK
+               APPENDIX A: HOW TO APPLY THIS LICENSE TO YOUR WORK
 ------------------------------------------------------------------------------
 
 To apply the 21st Century Free Liberation License to your Work, attach the
@@ -522,3 +522,72 @@ does not affect the validity or scope of the License.
     WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See
     the License for the specific language governing permissions and
     limitations under the License.
+
+------------------------------------------------------------------------------
+        APPENDIX B: HOW TO APPLY ADDITIONAL LICENSE TERMS UNDER
+                              SECTION 6.1
+------------------------------------------------------------------------------
+
+A Licensor wishing to attach Additional License Terms and Conditions to a
+Work under Section 6.1 should create a plain-text file named "NOTICE" and
+distribute it together with the Work and this License. The NOTICE file
+should contain, at minimum, the following elements, in this order:
+
+    1. Identification of the Work to which the NOTICE applies.
+    2. The attribution notices required under Section 5(c).
+    3. Any Additional License Terms and Conditions the Licensor wishes to
+       impose, stated in full and set apart from the attribution notices.
+
+A suggested template follows. (Bracketed fields [] should be replaced with
+actual values; the brackets themselves should not appear in the final
+NOTICE file.)
+
+
+    NOTICE file for: [name of the Work]
+
+    -----------------------------------------------------------------
+    ATTRIBUTION
+    -----------------------------------------------------------------
+    This Work includes material developed by [name of Rights owner]
+    and Contributors.
+
+    Copyright [yyyy] [name of Rights owner]
+
+    -----------------------------------------------------------------
+    ADDITIONAL LICENSE TERMS AND CONDITIONS (Section 6.1)
+    -----------------------------------------------------------------
+    In addition to the terms of the 21st Century Free Liberation
+    License, Version 1.0, the following terms apply to this Work:
+
+        [state each additional term as a separate, numbered clause]
+
+    These Additional License Terms and Conditions apply only to this
+    Work as first made available under the License, and do not apply
+    to any Work that does not include or expressly reference this
+    NOTICE.
+
+    -----------------------------------------------------------------
+
+
+Drafting notes (not part of the NOTICE itself):
+
+  - Per Section 6.1, the reproduction of the NOTICE in Object form (e.g.
+    an "About" screen or interface credit) must not be dynamically
+    generated over a network and must not change after the Work is
+    first released, since only a fixed, static NOTICE binds recipients.
+
+  - Additional License Terms stated in the NOTICE bind all recipients of
+    that Work together with, not in place of, this License; they may
+    not be used to override or narrow the obligations imposed on
+    Contributions under Section 6.
+
+  - A Licensor who later wishes to revise the Additional License Terms
+    for future releases of the Work may do so, but Section 6.1 confines
+    any given version of the NOTICE to the Work as first distributed
+    with it — earlier recipients remain governed by the NOTICE that
+    accompanied their copy, consistent with Section 4's continuity
+    provisions.
+
+------------------------------------------------------------------------------
+                            END OF APPENDIX B
+------------------------------------------------------------------------------
