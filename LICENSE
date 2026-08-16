@@ -347,46 +347,21 @@ You shall be identified as “Contributor” by default, and the Licensor
 shall have no obligation to provide or create any separate attribution or copyright notice
 for You or such Contribution.
 
-Supplementation by Additional License Terms. This paragraph elaborates the
-exception already recognized in the preceding paragraph: a Contributor who,
-at the time of submission, explicitly states that a Contribution is offered
-subject to further terms may attach Additional License Terms and Conditions
-that expressly apply to that Contribution, to the extent permitted under
-this License. Where such terms validly apply, the Contribution shall be
-subject to those terms together with, and not in place of, the provisions
-of this Section. No Additional License Terms may be construed to relieve a
-Contribution of the licensing obligations imposed by this Section, and any
-purported term to that effect is void and severable under Section 8.
-
-Relationship to Section 6.1. Additional License Terms and Conditions
-attached to a Contribution under this Section are a matter between the
-submitting Contributor and the Licensor: they govern the terms on which the
-Contribution is offered and may be used, need not satisfy the NOTICE-file
-formality described in Section 6.1, and do not themselves impose
-obligations on downstream recipients of the Work. A Licensor wishing
-downstream recipients to be bound by terms of this kind must separately
-incorporate them into a NOTICE under Section 6.1, which governs only
-Additional License Terms and Conditions attached by the Licensor to the
-Work as first made available, and not terms a Contributor attaches to a
-Contribution under this Section.
+Supplementation by Additional License Terms. Notwithstanding anything to
+the contrary in this Section, a Contributor may attach Additional License Terms and Conditions 
+that expressly apply to the Contribution, to the extent permitted under this License.
+Where such terms validly apply, the Contribution shall be subject to those terms together
+with, and not in place of, the provisions of this Section. No Additional License Terms
+may be construed to relieve a Contribution of the licensing obligations imposed
+by this Section, and any purported term to that effect is void and severable
+under Section 8.
 
 
 
 6.1 Additional Terms by the Original Rights Holder.
 -----------------------------------------------------
 
-Scope. This Section 6.1 governs Additional License Terms and Conditions
-attached by the Licensor (or other original Rights owner) to the Work as
-first made available to recipients under this License. It operates
-independently of, and is distinct from, the Section 6 mechanism by which a
-Contributor may attach Additional License Terms and Conditions to a
-Contribution. Accordingly, as used in this Section 6.1, it is the Licensor
--- not any other Contributor within the broader meaning of Section 1.10 --
-that attaches Additional License Terms and Conditions, and nothing in this
-Section 6.1 authorizes any other Contributor to attach NOTICE-based terms
-to the Work as a whole.
-
-For the avoidance of doubt, the Licensor may attach Additional License Terms
+For the avoidance of doubt, the Contributor may attach Additional License Terms
 and Conditions to the Work, provided that such terms are included in, or
 expressly referenced by, a "NOTICE" text file distributed with the Work, or
 by a reproduction of such "NOTICE" in Object form in an interface. Any such
@@ -404,7 +379,7 @@ distributed by You in the same medium or format.
 
 You shall distribute the applicable "NOTICE", including any reproduction
 thereof previously distributed with the Work, in accordance with Section
-5(c), subject to the same limitations that apply to any Licensor
+5(c), subject to the same limitations that apply to any Contributor
 Additional License Terms and Conditions under this Section. Such Additional
 License Terms and Conditions shall apply only to the Work received by You in
 which they were included or expressly referenced when that Work was first
