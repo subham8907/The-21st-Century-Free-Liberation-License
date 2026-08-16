@@ -3,7 +3,6 @@
                                  Version 1.0
 ------------------------------------------------------------------------------
 
-
 PREAMBLE
 ========
 
@@ -196,10 +195,11 @@ License, require authorization under the Rights, subject to the following:
          Contribution(s) was submitted; (iii) extends to modification of
          the Design and the creation of original designs based on the
          Work, with any such modification or original design itself
-         constituting a Derivative Work for purposes of this License; and
-         (iv) for a physical or tangible Work, treats disclosure by the
-         Source form as satisfied through documentation describing the
-         Design in sufficient detail to make and use it.
+         constituting a Derivative Work for purposes of this License and
+         subject, as such, to the redistribution conditions of Section 5;
+         and (iv) for a physical or tangible Work, treats
+         disclosure by the Source form as satisfied through documentation
+         describing the Design in sufficient detail to make and use it.
 
      (c) Termination on Design Litigation. If You institute Design
          infringement litigation against any entity (including a
@@ -385,6 +385,22 @@ License Terms and Conditions shall apply only to the Work received by You in
 which they were included or expressly referenced when that Work was first
 made available under this License, and shall bind all recipients of that Work
 together with, and not in place of, the terms of this License.
+
+Non-Propagation to Derivative Works. For the avoidance of doubt,
+Additional License Terms and Conditions imposed under this Section attach
+only to the specific Work, in the form first made available, that included
+or expressly referenced the applicable NOTICE. Such terms do not attach to,
+are not inherited by, and do not bind any Derivative Work prepared from
+that Work, except (i) to the extent, and for so long as, the Derivative
+Work continues to incorporate the unmodified Work or a portion of it that
+remains subject to the NOTICE, and (ii) as to the attribution notices
+that Section 5(c) independently requires to be carried forward. A person
+preparing a Derivative Work is not required to reproduce, accept, apply,
+or carry forward any Additional License Terms and Conditions of the
+preexisting Work to that person's own additions, modifications, or to the
+Derivative Work as a whole, and may distribute such Derivative Work under
+this License, or under Additional License Terms or Different License Terms
+and Conditions of that person's own choosing, as contemplated by Section 5.
 
 Nothing in this Section shall impose Additional License Terms and Conditions
 on any Work that did not include or expressly reference such terms when that
@@ -580,6 +596,16 @@ Drafting notes (not part of the NOTICE itself):
     that Work together with, not in place of, this License; they may
     not be used to override or narrow the obligations imposed on
     Contributions under Section 6.
+
+  - Additional License Terms stated in a NOTICE do not carry
+    forward into Derivative Works prepared from the Work. A downstream
+    author's own additions and modifications, and the Derivative Work
+    as a whole, are not bound by a preexisting NOTICE's Additional
+    License Terms merely by virtue of building on the Work — see the
+    Non-Propagation provision in Section 6.1. A Licensor who wants a
+    condition to reach Derivative Works must instead rely on Section
+    5(c)'s attribution carry-forward, which is the only obligation this
+    License causes to propagate downstream.
 
   - A Licensor who later wishes to revise the Additional License Terms
     for future releases of the Work may do so, but Section 6.1 confines
