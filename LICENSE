@@ -119,12 +119,12 @@ ownership of voting securities, contract, or otherwise.
 (a) Assignees and Transferees of Rights. Any person or Legal Entity that
 acquires, in whole or in part, by assignment, transfer, exclusive license,
 operation of law, court order, or otherwise, any copyright, patent,
-trademark, or other intellectual property right held by a Right Holder,
-Right Holder, or Contributor in or relating to the Work or a Contribution --
+trademark, or other intellectual property right held by a Right Holder or
+Contributor in or relating to the Work or a Contribution --
 excluding, for the avoidance of doubt, any non-exclusive licensee who
 acquires no greater rights than those already granted under this License;
 
-(b) Successors of Natural Persons. If a Right Holder, Right Holder, or Contributor
+(b) Successors of Natural Persons. If a Right Holder or Contributor
 is a natural person, that person's estate, heirs, executors, administrators,
 personal representatives, guardians, conservators, trustees, beneficiaries,
 or other lawful successors or assigns, whether arising by will, intestate
@@ -132,8 +132,8 @@ succession, trust instrument, court order, incapacity, or otherwise;
 
 (c) Successors of Legal Entities. Any person or Legal Entity that succeeds to,
 acquires, assumes, or continues all or substantially all of the rights,
-assets, obligations, business, or legal interests of a Right Holder, Right Holder,
-or Contributor that is a Legal Entity, whether by merger, acquisition,
+assets, obligations, business, or legal interests of a Right Holder or
+Contributor that is a Legal Entity, whether by merger, acquisition,
 consolidation, amalgamation, reorganization, recapitalization, conversion,
 division, spin-off, sale or transfer of substantially all assets, dissolution,
 liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by
@@ -142,7 +142,7 @@ effect;
 
 (d) Chain of Title. Any Successor (under any of the foregoing clauses) of a
 Successor, without limitation as to the number of intervening transfers or
-remoteness in time. For the avoidance of doubt, no Right Holder, Right Holder, or
+remoteness in time. For the avoidance of doubt, no Right Holder or
 Contributor may avoid the obligations of this License by structuring a
 transaction so as to fall outside the foregoing definition where the
 substance of the transaction is a transfer described in this definition.
