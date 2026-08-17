@@ -42,7 +42,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 1.1 "License" means this document, the 21st Century Free Liberation License,
 together with the terms and conditions for use, reproduction, and distribution
 set forth in Sections 1 through 12 below, including their subsections and the
-Appendix A and B.
+Appendix A, B and Appendix C.
 
 1.2 "Right Holder" means the owner of the Rights, or an entity authorized by the
 owner of the Rights, that is granting the License.
@@ -198,9 +198,9 @@ Section with respect to that Design:
     itself constituting a Derivative Work for purposes of this License and
     subject, as such, to the redistribution conditions of Section 5; and
 
-    (iv) for a physical or tangible Work, treats disclosure by the Source
-    form or by documentation describing the Design in sufficient detail to
-    make and use it as satisfying the disclosure requirement for purposes of
+    (iv) for an Object form, treats disclosure through either the Source form
+    or documentation that describes the Design in sufficient detail to make
+    and use it as satisfying the disclosure requirement for purposes of
     this Section 2(b).
 
     (v) Partial Disclosure. Notwithstanding subsection (iv), where the
@@ -295,14 +295,15 @@ transfer described in the definition of "Successor" shall be deemed void,
 invalid, or unenforceable by reason of any prohibition on assignment that
 might otherwise apply under this License or applicable law.
 
-4.3 The Right Holder and each Contributor hereby grant You the right to
-refuse any request made by a Successor to alter, remove, or restate any
-existing notice or any instruction or prescribed method of application stated
-in Appendix A or B, Sections 5(b) and 5(c), whether in the Work or in any
-Derivative Works that You received. The Right Holder and each Contributor
-further agree that they shall not themselves require or compel You to make
-any such alteration, removal, or restatement, and Your refusal to comply
-with any such request shall not constitute a breach of this License.
+4.3 The Right Holder and each Contributor hereby grant You the right to refuse
+any request made by a Successor to alter, remove, or restate any existing
+notice or any instruction or prescribed method of application stated in
+Appendix A, Appendix B, Appendix C, or Sections 5(b) and 5(c), whether in
+the Work or in any Derivative Works that You received. The Right Holder and
+each Contributor further agree that they shall not themselves require or
+compel You to make any such alteration, removal, or restatement, and Your
+refusal to comply with any such request shall not constitute a breach of
+this License.
 
 4.4 Territorial Effect of Statutory Termination. If this License is terminated
 by operation of a statutory right, and that statutory right arises under the
@@ -561,5 +562,58 @@ NOTICE, with the bracketed fields replaced with your own information.
     NOTICE expanding this Declared Scope. Any such expansion is governed
     by Section 4 to the same extent as any other license granted under
     this License.
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+APPENDIX C: HOW TO DECLARE A FULL DESIGN DISCLOSURE SCOPE
+------------------------------------------------------------------------------
+
+This Appendix explains how a Right Holder may license the full Design under
+Section 2(b), using the Full Design Disclosure mechanism described in this
+Appendix.
+
+INSTRUCTIONS
+
+- If you want to license the full Design — rather than only part of the
+  Design under the Declared Scope mechanism in Section 2(b)(v) — add a Full
+  Design Disclosure statement to the Work's NOTICE.
+
+- Clearly identify the Work and expressly state that the full Design embodied
+  in the Work is disclosed and licensed under Section 2(b).
+
+- A Full Design Disclosure applies to the entire Design embodied in the Work
+  and is not limited to particular files, drawings, components, or other
+  identified elements.
+
+- Once published, a Full Design Disclosure cannot be narrowed or withdrawn
+  with respect to any Work or Contribution already distributed, except as
+  expressly permitted by this License.
+
+- If a Full Design Disclosure is used, do not include a Declared Scope
+  statement that limits the Design disclosure for the same Work.
+
+SAMPLE NOTICE LANGUAGE
+
+To declare a full Design disclosure, add the following to the Work's NOTICE,
+with the bracketed fields replaced with your own information.
+(Don't include the brackets.)
+
+    FULL DESIGN DISCLOSURE (Section 2(b))
+
+    Right Holder: [name of Right Holder]
+
+    Pursuant to Section 2(b) of the 21st Century Free Liberation License,
+    Version 1.0, the Right Holder declares that the full Design embodied
+    in the Work is disclosed and licensed under Section 2(b) of this
+    License.
+
+    This Full Design Disclosure applies to the entire Design embodied in
+    the Work and is not limited to any particular file, component, drawing,
+    or other portion of the Work.
+
+    The full Design disclosed above is subject to the terms and conditions
+    of this License, including the provisions governing the modification,
+    distribution, and termination of rights under Section 2.
 
 ------------------------------------------------------------------------------
