@@ -101,8 +101,8 @@ incorporated within the Work.
 
 1.11 "Rights" means copyright and any similar rights, including Design Rights
 (whether registered or unregistered), rights in semiconductor topographies
-(mask works), database rights, and Trademark Rights, provided that Trademark
-Rights are subject to Section 9, but excluding Patents. 
+(mask works), database rights, Trademark Rights, and Patents, provided that
+Trademark Rights are subject to Section 9.
 
 1.12 "Design" means any intellectual property right that grants an exclusive
 or monopoly right in respect of a design, including, without limitation,
@@ -201,6 +201,14 @@ this Section with respect to Trademark Rights is limited to the uses expressly
 permitted under Section 9. No broader license to use, reproduce, display, or
 sublicense any trade name, trademark, service mark, or product name of the
 Right Holder is granted under this Section 2 or elsewhere in this License.
+
+(e) Patents. Notwithstanding subsection (a), any rights granted under this
+Section with respect to Patents, together with any patent license granted
+under Section 3, shall be read and construed together as a single grant
+of rights under this License. Section 2 and Section 3 shall both apply
+to such rights and shall be interpreted consistently with one another,
+with the terms and conditions of both Sections applying to the extent
+applicable to Patents.
 
 3. GRANT OF PATENT LICENSE
 --------------------------
