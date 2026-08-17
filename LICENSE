@@ -114,144 +114,37 @@ the power to direct the management or policies of an entity, whether through
 ownership of voting securities, contract, or otherwise.
 
 1.14 "Successor" means, as the context requires, any of the following:
+
 (a) Assignees and Transferees of Rights. Any person or Legal Entity that
 acquires, in whole or in part, by assignment, transfer, exclusive license,
-operation of law, court order, or otherwise, any copyright, patent, or other
-intellectual property right held by a Licensor or Contributor in or relating
-to the Work or a Contribution -- excluding, for the avoidance of doubt, any
-non-exclusive licensee who acquires no greater rights than those already
-granted under this License;
-(b) Successors of Natural Persons. If a Licensor or Contributor is a natural
-person, that person's estate, heirs, executors, administrators, personal
-representatives, guardians, conservators, trustees, beneficiaries, or other
-lawful successors or assigns, whether arising by will, intestate succession,
-trust instrument, court order, incapacity, or otherwise;
+operation of law, court order, or otherwise, any copyright, patent,
+trademark, or other intellectual property right held by a Right Holder,
+Licensor, or Contributor in or relating to the Work or a Contribution --
+excluding, for the avoidance of doubt, any non-exclusive licensee who
+acquires no greater rights than those already granted under this License;
+
+(b) Successors of Natural Persons. If a Right Holder, Licensor, or Contributor
+is a natural person, that person's estate, heirs, executors, administrators,
+personal representatives, guardians, conservators, trustees, beneficiaries,
+or other lawful successors or assigns, whether arising by will, intestate
+succession, trust instrument, court order, incapacity, or otherwise;
+
 (c) Successors of Legal Entities. Any person or Legal Entity that succeeds to,
 acquires, assumes, or continues all or substantially all of the rights,
-assets, obligations, business, or legal interests of a Licensor or Contributor
-that is a Legal Entity, whether by merger, acquisition, consolidation,
-amalgamation, reorganization, recapitalization, conversion, division,
-spin-off, sale or transfer of substantially all assets, dissolution,
+assets, obligations, business, or legal interests of a Right Holder, Licensor,
+or Contributor that is a Legal Entity, whether by merger, acquisition,
+consolidation, amalgamation, reorganization, recapitalization, conversion,
+division, spin-off, sale or transfer of substantially all assets, dissolution,
 liquidation, bankruptcy, insolvency proceeding, or Change of Control, or by
 any other transaction or series of related transactions having a similar
 effect;
+
 (d) Chain of Title. Any Successor (under any of the foregoing clauses) of a
 Successor, without limitation as to the number of intervening transfers or
-remoteness in time. For the avoidance of doubt, no Licensor or Contributor may
-avoid the obligations of this License by structuring a transaction so as to
-fall outside the foregoing definition where the substance of the transaction
-is a transfer described in this definition.
-
-1.15 "Additional License Terms and Conditions" means this License together
-with any additional or different terms and conditions that a Contributor
-attaches, in the form of an addendum, rider, or other supplemental terms,
-subject to the terms and conditions of this License. For the avoidance of
-doubt, "Additional License Terms and Conditions" excludes any terms that would
-constitute Different License Terms and Conditions as defined in Section 1.16.
-
-1.16 "Different License Terms and Conditions" means any terms or conditions
-that are not originated by this License or Additional License Terms, governing
-Your modifications, provided that such terms do not displace the conditions of
-Section 5 as they apply to the Work.
-
-2. GRANT OF RIGHTS LICENSE
---------------------------
-
-Subject to the terms and conditions of this License, each Contributor hereby
-grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free
-license under the Rights to reproduce, prepare Derivative Works of, make,
-adapt, repair, publicly display, publicly perform, sublicense, and distribute
-the Work and such Derivative Works in Source or Object form, and otherwise to
-do anything in relation to the Work that would, in the absence of this
-License, require authorization under the Rights, subject to the following:
-
-(a) Copyright and Similar Rights. Except as provided in subsection (b), the
-license granted under this Section is irrevocable and applies to the full
-scope of each Contributor's Rights in the Work.
-
-(b) Design. To the extent a Contributor's Rights include Design embodied in
-the Work and disclosed by the Source form, the license granted under this
-Section with respect to that Design (i) is irrevocable except as stated in
-subsection (c); (ii) applies only to those Design claims licensable by such
-Contributor that are necessarily infringed by their Contribution(s) alone or
-by combination of their Contribution(s) with the Work to which such
-Contribution(s) was submitted; (iii) extends to modification of the Design and
-the creation of original designs based on the Work, with any such modification
-or original design itself constituting a Derivative Work for purposes of this
-License and subject, as such, to the redistribution conditions of Section 5;
-and (iv) for a physical or tangible Work, treats disclosure by the Source form
-as satisfied through documentation describing the Design in sufficient detail
-to make and use it.
-
-(c) Termination on Design Litigation. If You institute Design infringement
-litigation against any entity (including a cross-claim or counterclaim in a
-lawsuit) alleging that the Work or a Contribution incorporated within the Work
-constitutes direct or contributory infringement of any Design, then the
-license granted under this Section with respect to Design for that Work shall
-terminate as of the date such litigation is filed.
-
-3. GRANT OF PATENT LICENSE
---------------------------
-
-Subject to the terms and conditions of this License, each Contributor hereby
-grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-irrevocable (except as stated in this Section) patent license to make, have
-made, use, offer to sell, sell, import, and otherwise transfer the Work, where
-such license applies only to those patent claims licensable by such
-Contributor that are necessarily infringed by their Contribution(s) alone or
-by combination of their Contribution(s) with the Work to which such
-Contribution(s) was submitted. If You institute patent litigation against any
-entity (including a cross-claim or counterclaim in a lawsuit) alleging that
-the Work or a Contribution incorporated within the Work constitutes direct or
-contributory patent infringement, then any patent licenses granted to You
-under this License for that Work shall terminate as of the date such
-litigation is filed.
-
-4. CONTINUITY OF LICENSE
-------------------------------------
-
-The licenses, permissions, rights, and obligations arising under this License
-are intended to remain effective notwithstanding any transfer, succession,
-change in ownership or control, or other event affecting a Licensor,
-Contributor, or holder of Rights in the Work or any Contribution. Except to
-the extent that applicable law expressly provides otherwise, no such event
-shall revoke, diminish, impair, suspend, or otherwise adversely affect any
-license or permission previously granted to You under this License. Any
-Successor shall be bound to honor grants previously made under this License,
-and any statutory termination of such licenses or permissions shall have only
-the effect expressly provided in this Section.
-
-4.1 The Right Holder and each Contributor hereby promise that no transfer,
-succession, death, dissolution, merger, acquisition, reorganization,
-bankruptcy, insolvency proceeding, Change of Control, or other event
-described in the definition of "Successor" shall diminish, suspend,
-terminate, impair, or otherwise affect any license previously granted to
-You.
-
-4.2 No Successor or Contributor may unilaterally revoke, narrow, condition,
-or impose additional restrictions on any license or permission previously
-granted to You under Sections 2 and 3. The Right Holder and each Contributor
-further agree that they shall not themselves take any action that would have
-the effect of revoking, narrowing, conditioning, or imposing additional
-restrictions on any such license or permission previously granted to You.
-
-4.3 The Right Holder and each Contributor hereby grant You the right to
-refuse any request made by a Successor to alter, remove, or restate any
-existing notice or any instruction or prescribed method of application stated
-in Appendix A or Sections 5(b) and 5(c), whether in the Work or in any
-Derivative Works that You received. The Right Holder and each Contributor
-further agree that they shall not themselves require or compel You to make
-any such alteration, removal, or restatement, and Your refusal to comply
-with any such request shall not constitute a breach of this License.
-
-4.4 The Right Holder and each Contributor hereby promise that, if this
-License is terminated by operation of a statutory right, and that statutory
-right arises under the applicable law of a specific territory, such
-termination shall be effective only with respect to that specific territory
-and only where a Contributor, Successor and Right Holder  has invoked the applicable law of
-that specific territory. Such termination shall not affect, and shall not be
-construed to affect, the validity, effectiveness, or continuity of this
-License in any other territory.
+remoteness in time. For the avoidance of doubt, no Right Holder, Licensor, or
+Contributor may avoid the obligations of this License by structuring a
+transaction so as to fall outside the foregoing definition where the
+substance of the transaction is a transfer described in this definition.
 
 
 5. REDISTRIBUTION
