@@ -33,13 +33,9 @@ including but not limited to software source code, net lists, board
 layouts, CAD files, documentation source, and configuration files, in any
 medium or format.
 
-1.6 "Object" form means any form resulting from mechanical transformation or
-translation of a Source form, or from the application of a Source form to
-physical material, including but not limited to compiled object code,
-generated documentation, the instantiation of a hardware design or physical
-object or material, and conversions to other media types, including
-intermediate forms such as bytecodes, FPGA bitstreams, moulds, artwork, and
-semiconductor topographies (mask works).
+1.6 "Object" form shall mean any form resulting from mechanical transformation
+or translation of a Source form, including but not limited to compiled object code,
+generated documentation, and conversions to other media types.
 
 1.7 "Work" means the work of authorship or design, whether in Source or
 Object form, made available under the License, as indicated by a notice
