@@ -59,7 +59,8 @@ granted by this License.
 
 1.5 "Source" form means the preferred form for making modifications, including
 but not limited to software source code, net lists, board layouts, CAD files,
-documentation source, and configuration files.
+documentation source, and configuration files including disclosure through 
+Documentation in any medium or format.
 
 1.6 "Object" form means any form resulting from mechanical transformation or
 translation of a Source form, or from the application of a Source form to
@@ -158,7 +159,8 @@ constitute Different License Terms and Conditions as defined in Section 1.16.
 1.16 "Different License Terms and Conditions" means any terms or conditions
 that are not originated by this License or Additional License Terms.
 
-2. GRANT OF RIGHTS LICENSE
+
+ 2. GRANT OF RIGHTS LICENSE
 --------------------------
 
 Subject to the terms and conditions of this License, each Contributor hereby
@@ -166,48 +168,62 @@ grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free
 license under the Rights to reproduce, prepare Derivative Works of, make,
 adapt, repair, publicly display, publicly perform, sublicense, and distribute
 the Work and such Derivative Works in Source or Object form, and otherwise to
-do anything in relation to the Work that would, in the absence of this
-License, require authorization under the Rights, subject to the following:
+do anything in relation to the Work that would, in the absence of this License,
+require authorization under the Rights, subject to the following:
 
-(a) Copyright and Similar Rights. Except as provided in subsections (b) and
-(d), the license granted under this Section is irrevocable and applies to
-the full scope of each Contributor's Rights in the Work, except that
-Trademark Rights are governed exclusively by subsection (d).
+(a) Copyright and Similar Rights. Except as provided in subsections (b) and (d),
+    the license granted under this Section is irrevocable and applies to the
+    full scope of each Contributor's Rights in the Work, except that Trademark
+    Rights are governed exclusively by subsection (d).
 
-(b) Design. To the extent a Contributor's Rights include Design embodied in
-the Work and disclosed by the Source form, the license granted under this
-Section with respect to that Design (i) is irrevocable except as stated in
-subsection (c); (ii) applies only to those Design claims licensable by such
-Contributor that are necessarily infringed by their Contribution(s) alone or
-by combination of their Contribution(s) with the Work to which such
-Contribution(s) was submitted; (iii) extends to modification of the Design and
-the creation of original designs based on the Work, with any such modification
-or original design itself constituting a Derivative Work for purposes of this
-License and subject, as such, to the redistribution conditions of Section 5;
-and (iv) for a physical or tangible Work, treats disclosure by the Source form
-as satisfied through documentation describing the Design in sufficient detail
-to make and use it.
+(b) Design. To the extent a Contributor's Rights include Design embodied in the
+    Work and disclosed by the Source form, the license granted under this
+    Section with respect to such Design:
+
+    (i) is irrevocable except as stated in subsection (c);
+
+    (ii) applies only to those Design claims licensable by such Contributor
+         that are necessarily infringed by their Contribution(s) alone or by
+         combination of their Contribution(s) with the Work to which such
+         Contribution(s) was submitted;
+
+    (iii) extends to modification of the Design and the creation of original
+          designs based on the Work, with any such modification or original
+          design itself constituting a Derivative Work for purposes of this
+          License and subject, as such, to the redistribution conditions of
+          Section 5; and
+
+    (iv) with respect to an Object form, grants rights in any Design embodied
+         therein only to the extent that the Right Holder has disclosed such
+         Design through the Source form; and where You receive only the Source
+         form, grants rights in any Design embodied therein only to the extent
+         that such Design is disclosed in that Source form; and
+
+    (v) nothing in this subsection (b) grants You any right to require, compel,
+        or otherwise extend disclosure of the Source form of the Work or any
+        Design embodied therein.
 
 (c) Termination on Design Litigation. If You institute Design infringement
-litigation against any entity (including a cross-claim or counterclaim in a
-lawsuit) alleging that the Work or a Contribution incorporated within the Work
-constitutes direct or contributory infringement of any Design, then the
-license granted under this Section with respect to Design for that Work shall
-terminate as of the date such litigation is filed.
+    litigation against any entity (including a cross-claim or counterclaim in
+    a lawsuit) alleging that the Work or a Contribution incorporated within the
+    Work constitutes direct or contributory infringement of any Design, then
+    the license granted under this Section with respect to Design for that
+    Work shall terminate as of the date such litigation is filed.
 
-(d) Trademarks. Notwithstanding subsection (a), the license granted under
-this Section with respect to Trademark Rights is limited to the uses expressly
-permitted under Section 9. No broader license to use, reproduce, display, or
-sublicense any trade name, trademark, service mark, or product name of the
-Right Holder is granted under this Section 2 or elsewhere in this License.
+(d) Trademarks. Notwithstanding subsection (a), the license granted under this
+    Section with respect to Trademark Rights is limited to the uses expressly
+    permitted under Section 9. No broader license to use, reproduce, display,
+    or sublicense any trade name, trademark, service mark, or product name of
+    the Right Holder is granted under this Section 2 or elsewhere in this
+    License.
 
 (e) Patents. Notwithstanding subsection (a), any rights granted under this
-Section with respect to Patents, together with any patent license granted
-under Section 3, shall be read and construed together as a single grant
-of rights under this License. Section 2 and Section 3 shall both apply
-to such rights and shall be interpreted consistently with one another,
-with the terms and conditions of both Sections applying to the extent
-applicable to Patents.
+    Section with respect to Patents, together with any patent license granted
+    under Section 3, shall be read and construed together as a single grant of
+    rights under this License. Sections 2 and 3 shall both apply to such
+    rights and shall be interpreted consistently with one another, with the
+    terms and conditions of both Sections applying to the extent applicable
+    to Patents.
 
 3. GRANT OF PATENT LICENSE
 --------------------------
