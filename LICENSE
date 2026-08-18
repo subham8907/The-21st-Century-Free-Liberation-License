@@ -45,6 +45,8 @@ form, made available under the License, as indicated by a notice relating to
 Rights that is included in or attached to the work (an example is provided in
 the Appendix A below).
 
+Physical Object Form" means any physical object, material, or physical representation resulting from the application of a Source form to physical material, including but not limited to an instantiated hardware design, mould, artwork, or semiconductor topography (mask work).
+
 1.8 "Derivative Works" means any work, whether in Source or Object form, that
 is based on (or derived from) the Work and for which the editorial revisions,
 annotations, elaborations, or other modifications represent, as a whole, an
@@ -137,7 +139,7 @@ Subject to the terms and conditions of this License, each Contributor hereby
 grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free
 license under the Rights to reproduce, prepare Derivative Works of, make,
 adapt, repair, publicly display, publicly perform, sublicense, and distribute
-the Work and such Derivative Works in Source or Object form, and otherwise to
+the Work and such Derivative Works in Source or Object form Physical Object Form and otherwise to
 do anything in relation to the Work that would, in the absence of this License,
 require authorization under the Rights, subject to the following:
 
@@ -146,9 +148,9 @@ require authorization under the Rights, subject to the following:
     full scope of each Contributor's Rights in the Work, except that Trademark
     Rights are governed exclusively by subsection (d).
 
-(b) Design. To the extent a Contributor's Rights include Design embodied in the
-    Work and disclosed by the Source form, the license granted under this
-    Section with respect to such Design:
+(c) Design. To the extent a Contributor's Rights include Design embodied in the
+Work and disclosed by the Source form, the license granted under this
+Section with respect to such Design:
 
     (i) is irrevocable except as stated in subsection (c);
 
@@ -161,24 +163,23 @@ require authorization under the Rights, subject to the following:
           designs based on the Work, with any such modification or original
           design itself constituting a Derivative Work for purposes of this
           License and subject, as such, to the redistribution conditions of
-          Section 5; and
+          Section 5;
 
     (iv) with respect to an Object form, grants rights in any Design embodied
          therein only to the extent that the Right Holder has disclosed such
-         Design through the Source form; and where You receive only the Source
-         form, grants rights in any Design embodied therein only to the extent
-         that such Design is disclosed in that Source form; and
+         Design through the Source form;
 
-    (v) nothing in this subsection (b) grants You any right to require, compel,
-        or otherwise extend disclosure of the Source form of the Work or any
-        Design embodied therein.
+    (v) with respect to a Physical Object Form, grants rights in any Design
+        embodied therein only to the extent that the Right Holder has
+        disclosed such Design through the Source form;
 
-(c) Termination on Design Litigation. If You institute Design infringement
-    litigation against any entity (including a cross-claim or counterclaim in
-    a lawsuit) alleging that the Work or a Contribution incorporated within the
-    Work constitutes direct or contributory infringement of any Design, then
-    the license granted under this Section with respect to Design for that
-    Work shall terminate as of the date such litigation is filed.
+    (vi) where You receive only the Source form, grants rights in any Design
+         embodied therein only to the extent that such Design is disclosed
+         in that Source form; and
+
+    (vii) nothing in this subsection (b) grants You any right to require,
+          compel, or otherwise extend disclosure of the Source form of the
+          Work or any Design embodied in Physical Object Form.
 
 (d) Trademarks. Notwithstanding subsection (a), the license granted under this
     Section with respect to Trademark Rights is limited to the uses expressly
