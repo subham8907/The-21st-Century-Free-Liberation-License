@@ -28,10 +28,10 @@ such entity.
 1.4 "You" or "Your" means an individual or Legal Entity exercising
 permissions granted by this License.
 
-1.5 "Source" form means the preferred form for making modifications,
-including but not limited to software source code, net lists, board
-layouts, CAD files, documentation source, and configuration files, in any
-medium or format.
+1.5 “Source” form shall mean the preferred form for making modifications,
+including, but not limited to, source code, netlists, board layouts, CAD files, configuration files, 
+documentation that describes Physical Object forms or Object forms,
+and any information in any medium or format.
 
 1.6 "Object" form shall mean any form resulting from mechanical transformation
 or translation of a Source form, including but not limited to compiled object code,
