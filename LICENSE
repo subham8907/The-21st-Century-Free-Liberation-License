@@ -42,7 +42,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 1.1 "License" means this document, the 21st Century Free Liberation License,
 together with the terms and conditions for use, reproduction, and distribution
 set forth in Sections 1 through 12 below, including their subsections and the
-Appendix A, B and Appendix C.
+Appendix A.
 
 1.2 "Right Holder" means the owner of the Rights, or an entity authorized by the
 owner of the Rights, that is granting the License.
@@ -160,12 +160,6 @@ that are not originated by this License or Additional License Terms, governing
 Your modifications, provided that such terms do not displace the conditions of
 Section 5 as they apply to the Work.
 
-1.17 "Declared Scope" means, with respect to a Design embodied in a Work,
-the portion of that Design which a Right Holder has expressly identified in
-the NOTICE as disclosed for purposes of Section 2(b), stated with
-reasonable specificity as to which elements, components, drawings, files,
-or aspects of the Design are included.
-
 2. GRANT OF RIGHTS LICENSE
 --------------------------
 
@@ -184,67 +178,38 @@ Trademark Rights are governed exclusively by subsection (d).
 
 (b) Design. To the extent a Contributor's Rights include Design embodied in
 the Work and disclosed by the Source form, the license granted under this
-Section with respect to that Design:
-
-    (i) is irrevocable except as stated in subsection (c);
-
-    (ii) applies only to those Design claims licensable by such Contributor
-    that are necessarily infringed by their Contribution(s) alone or by
-    combination of their Contribution(s) with the Work to which such
-    Contribution(s) was submitted;
-
-    (iii) extends to modification of the Design and the creation of original
-    designs based on the Work, with any such modification or original design
-    itself constituting a Derivative Work for purposes of this License and
-    subject, as such, to the redistribution conditions of Section 5; and
-
-    (iv) for an Object form, treats disclosure through either the Source form
-    or documentation that describes the Design in sufficient detail to make
-    and use it as satisfying the disclosure requirement for purposes of
-    this Section 2(b).
-
-    (v) Partial Disclosure. Notwithstanding subsection (iv), where the
-    NOTICE expressly identifies a Declared Scope, disclosure by the Source
-    form for purposes of this Section 2(b) is deemed satisfied with respect
-    to the Declared Scope only, and the license granted under this
-    Section 2(b) extends solely to the Design as, and to the extent,
-    described within that Declared Scope. Documentation or Source form
-    materials describing aspects of the Design outside the Declared Scope
-    are not, by their mere inclusion or accompanying disclosure, to be
-    construed as extending the license under this Section 2(b) beyond the
-    Declared Scope.
-
-    A Right Holder may amend the NOTICE at any time to enlarge a Declared
-    Scope. No amendment may narrow a Declared Scope, or withdraw any element
-    previously included within it, with respect to any Work or Contribution
-    already distributed. Section 4 applies to a Declared Scope, once
-    disclosed, to the same extent as it applies to any other license or
-    permission granted under this License.
-
-    Where the NOTICE contains no Declared Scope statement, subsection (iv)
-    continues to apply according to its terms.
+Section with respect to that Design (i) is irrevocable except as stated in
+subsection (c); (ii) applies only to those Design claims licensable by such
+Contributor that are necessarily infringed by their Contribution(s) alone or
+by combination of their Contribution(s) with the Work to which such
+Contribution(s) was submitted; (iii) extends to modification of the Design and
+the creation of original designs based on the Work, with any such modification
+or original design itself constituting a Derivative Work for purposes of this
+License and subject, as such, to the redistribution conditions of Section 5;
+and (iv) for a physical or tangible Work, treats disclosure by the Source form
+as satisfied through documentation describing the Design in sufficient detail
+to make and use it.
 
 (c) Termination on Design Litigation. If You institute Design infringement
 litigation against any entity (including a cross-claim or counterclaim in a
-lawsuit) alleging that the Work or a Contribution incorporated within the
-Work constitutes direct or contributory infringement of any Design, then
-the license granted under this Section with respect to Design for that Work
-shall terminate as of the date such litigation is filed.
+lawsuit) alleging that the Work or a Contribution incorporated within the Work
+constitutes direct or contributory infringement of any Design, then the
+license granted under this Section with respect to Design for that Work shall
+terminate as of the date such litigation is filed.
 
 (d) Trademarks. Notwithstanding subsection (a), the license granted under
-this Section with respect to Trademark Rights is limited to the uses
-expressly permitted under Section 9. No broader license to use, reproduce,
-display, or sublicense any trade name, trademark, service mark, or product
-name of the Right Holder is granted under this Section 2 or elsewhere in
-this License.
+this Section with respect to Trademark Rights is limited to the uses expressly
+permitted under Section 9. No broader license to use, reproduce, display, or
+sublicense any trade name, trademark, service mark, or product name of the
+Right Holder is granted under this Section 2 or elsewhere in this License.
 
 (e) Patents. Notwithstanding subsection (a), any rights granted under this
 Section with respect to Patents, together with any patent license granted
-under Section 3, shall be read and construed together as a single grant of
-rights under this License. Section 2 and Section 3 shall both apply to such
-rights and shall be interpreted consistently with one another, with the
-terms and conditions of both Sections applying to the extent applicable
-to Patents.
+under Section 3, shall be read and construed together as a single grant
+of rights under this License. Section 2 and Section 3 shall both apply
+to such rights and shall be interpreted consistently with one another,
+with the terms and conditions of both Sections applying to the extent
+applicable to Patents.
 
 3. GRANT OF PATENT LICENSE
 --------------------------
@@ -295,15 +260,14 @@ transfer described in the definition of "Successor" shall be deemed void,
 invalid, or unenforceable by reason of any prohibition on assignment that
 might otherwise apply under this License or applicable law.
 
-4.3 The Right Holder and each Contributor hereby grant You the right to refuse
-any request made by a Successor to alter, remove, or restate any existing
-notice or any instruction or prescribed method of application stated in
-Appendix A, Appendix B, Appendix C, or Sections 5(b) and 5(c), whether in
-the Work or in any Derivative Works that You received. The Right Holder and
-each Contributor further agree that they shall not themselves require or
-compel You to make any such alteration, removal, or restatement, and Your
-refusal to comply with any such request shall not constitute a breach of
-this License.
+4.3 The Right Holder and each Contributor hereby grant You the right to
+refuse any request made by a Successor to alter, remove, or restate any
+existing notice or any instruction or prescribed method of application stated
+in Appendix A or Sections 5(b) and 5(c), whether in the Work or in any
+Derivative Works that You received. The Right Holder and each Contributor
+further agree that they shall not themselves require or compel You to make
+any such alteration, removal, or restatement, and Your refusal to comply
+with any such request shall not constitute a breach of this License.
 
 4.4 Territorial Effect of Statutory Termination. If this License is terminated
 by operation of a statutory right, and that statutory right arises under the
@@ -356,27 +320,13 @@ of communicating the required information and need not be provided in a text
 file or any particular file format. The notices may be provided in a NOTICE or
 equivalent attribution accompanying the Derivative Works; in the Source form
 or documentation, if provided with the Derivative Works; or through a display,
-interface, screen, or other presentation generated by the Derivative Works,
-if and wherever such third-party notices normally appear.
-
-    Where the NOTICE contains a Full Design Disclosure under Appendix C,
-    the Derivative Works that You distribute must preserve and include that
-    Full Design Disclosure, or an equivalent statement identifying the full
-    Design disclosure, to the extent applicable to the Derivative Works.
-
-    Where the NOTICE contains a Declared Scope under Appendix B, the
-    Derivative Works that You distribute must preserve and include that
-    Declared Scope, or an equivalent statement identifying the applicable
-    portion of the Design disclosed under that Declared Scope, to the extent
-    applicable to the Derivative Works. No such attribution or disclosure
-    notice shall be construed as expanding or reducing the Declared Scope.
-
-The contents of the NOTICE, including any Full Design Disclosure or Declared
-Scope statement, are for informational purposes only and do not modify the
-License. You may add Your own attribution notices to Derivative Works that
-You distribute, alongside or as an addendum to the attribution notices and
-Design disclosure statements from the Work, provided that such additional
-attribution notices cannot be construed as modifying the License.
+interface, screen, or other presentation generated by the Derivative Works, if
+and wherever such third-party notices normally appear. The contents of the
+NOTICE are for informational purposes only and do not modify the License. You
+may add Your own attribution notices to Derivative Works that You distribute,
+alongside or as an addendum to the attribution notices from the Work, provided
+that such additional attribution notices cannot be construed as modifying the
+License.
 
 You may add Your own copyright or other statement pertaining to Rights in Your
 modifications and may provide Additional License Terms and Different License
@@ -518,116 +468,3 @@ Unless required by applicable law or agreed to in writing, the Work is
 distributed under the License on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied. See the License for the
 specific language governing permissions and limitations under the License.
-
-------------------------------------------------------------------------------
-APPENDIX B: HOW TO DECLARE A PARTIAL DESIGN DISCLOSURE SCOPE
-------------------------------------------------------------------------------
-
-This Appendix explains how a Right Holder may license less than the full
-Design under Section 2(b), using the Declared Scope mechanism added by
-Section 2(b)(v).
-
-INSTRUCTIONS
-
-- If you want to license only part of the Design — rather than the whole
-  Design under the "sufficient detail to make and use" standard in
-  2(b)(iv) — add a Declared Scope statement to the Work's NOTICE.
-
-- Be specific. Identify the included elements by file name, drawing
-  number, component name, directory path, or an equivalent unambiguous
-  description. A vague description (e.g., "some of the housing") will
-  likely be read narrowly, against the Right Holder, since anything not
-  clearly identified falls outside the Declared Scope.
-
-- Anything not listed in the Declared Scope is presumed undisclosed and
-  unlicensed under Section 2(b). Silence does not expand the grant.
-
-- Remember: once published, a Declared Scope can only grow, never shrink.
-  Do not declare a broader scope than you intend to keep licensed
-  permanently.
-
-- If you later want to disclose more of the Design, issue an amended
-  NOTICE restating the full, enlarged Declared Scope (not just the delta),
-  so recipients are not left reconciling multiple partial notices.
-
-SAMPLE NOTICE LANGUAGE
-
-To declare a partial Design disclosure, add the following to the Work's
-NOTICE, with the bracketed fields replaced with your own information.
-(Don't include the brackets.)
-
-    DECLARED SCOPE OF DESIGN DISCLOSURE (Section 2(b)(v))
-
-    Copyright [yyyy] [name of Right Holder]
-
-    Pursuant to Section 2(b)(v) of the 21st Century Free Liberation
-    License, Version 1.0, the Right Holder declares that the Design
-    disclosed and licensed under Section 2(b) is limited to the
-    following:
-
-        [List the specific design elements, components, drawings, or
-        files within scope — e.g., "the enclosure geometry described in
-        /design/enclosure/*.step" or "the PCB layout contained in
-        /hardware/board-rev-c.kicad_pcb"]
-
-    Design elements not identified above are not disclosed under this
-    Section and remain outside the scope of the license granted under
-    Section 2(b), unless and until the Right Holder issues an amended
-    NOTICE expanding this Declared Scope. Any such expansion is governed
-    by Section 4 to the same extent as any other license granted under
-    this License.
-
-------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------
-APPENDIX C: HOW TO DECLARE A FULL DESIGN DISCLOSURE SCOPE
-------------------------------------------------------------------------------
-
-This Appendix explains how a Right Holder may license the full Design under
-Section 2(b), using the Full Design Disclosure mechanism described in this
-Appendix.
-
-INSTRUCTIONS
-
-- If you want to license the full Design — rather than only part of the
-  Design under the Declared Scope mechanism in Section 2(b)(v) — add a Full
-  Design Disclosure statement to the Work's NOTICE.
-
-- Clearly identify the Work and expressly state that the full Design embodied
-  in the Work is disclosed and licensed under Section 2(b).
-
-- A Full Design Disclosure applies to the entire Design embodied in the Work
-  and is not limited to particular files, drawings, components, or other
-  identified elements.
-
-- Once published, a Full Design Disclosure cannot be narrowed or withdrawn
-  with respect to any Work or Contribution already distributed, except as
-  expressly permitted by this License.
-
-- If a Full Design Disclosure is used, do not include a Declared Scope
-  statement that limits the Design disclosure for the same Work.
-
-SAMPLE NOTICE LANGUAGE
-
-To declare a full Design disclosure, add the following to the Work's NOTICE,
-with the bracketed fields replaced with your own information.
-(Don't include the brackets.)
-
-    FULL DESIGN DISCLOSURE (Section 2(b))
-
-    Right Holder: [name of Right Holder]
-
-    Pursuant to Section 2(b) of the 21st Century Free Liberation License,
-    Version 1.0, the Right Holder declares that the full Design embodied
-    in the Work is disclosed and licensed under Section 2(b) of this
-    License.
-
-    This Full Design Disclosure applies to the entire Design embodied in
-    the Work and is not limited to any particular file, component, drawing,
-    or other portion of the Work.
-
-    The full Design disclosed above is subject to the terms and conditions
-    of this License, including the provisions governing the modification,
-    distribution, and termination of rights under Section 2.
-
-------------------------------------------------------------------------------
