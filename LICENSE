@@ -123,7 +123,7 @@ otherwise, subject to the following:
 the Work and disclosed by the Source form, the license granted under this
 Section with respect to such Design:
 
-    (i) is irrevocable except as stated in subsection (b);
+    (i) is irrevocable;
 
     (ii) applies only to those Design claims licensable by such Contributor
          that are necessarily infringed by their Contribution(s) alone or
@@ -310,8 +310,6 @@ Contributor, and only if You agree to indemnify, defend, and hold each
 Contributor harmless for any liability incurred by, or claims asserted
 against, such Contributor by reason of Your accepting any such warranty or
 additional liability.
-
-
 
 ------------------------------------------------------------------------------
 END OF TERMS AND CONDITIONS
