@@ -1,3 +1,4 @@
+
 ------------------------------------------------------------------------------
 THE 21ST CENTURY FREE LIBERATION LICENSE
 Version 1.0
@@ -9,330 +10,123 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 1. DEFINITIONS
 ---------------
 
-1.1 "License" means this document, the 21st Century Free Liberation License,
-together with the terms and conditions for use, reproduction, and
-distribution set forth in Sections 1 through 11 below, including their
-subsections and Appendix A.
+1.1 "License" means this document, the 21st Century Free Liberation License, together with the terms and conditions for use, reproduction, and distribution set forth in Sections 1 through 11 below, including their subsections and Appendix A.
 
-1.2 "Right Holder" means the owner of the Rights, or an entity authorized by
-the owner of the Rights, that is granting the License.
+1.2 "Right Holder" means the owner of the Rights, or an entity authorized by the owner of the Rights, that is granting the License.
 
-1.3 "Legal Entity" means the union of the acting entity and all other
-entities that control, are controlled by, or are under common control with
-that entity. For the purposes of this definition, "control" means (i) the
-power, direct or indirect, to cause the direction or management of such
-entity, whether by contract or otherwise, (ii) ownership of fifty percent
-(50%) or more of the outstanding shares, or (iii) beneficial ownership of
-such entity.
+1.3 "Legal Entity" means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-1.4 "You" or "Your" means an individual or Legal Entity exercising
-permissions granted by this License.
+1.4 "You" or "Your" means an individual or Legal Entity exercising permissions granted by this License.
 
-1.5 "Source" form shall mean the preferred form for making modifications,
-including, but not limited to, source code, netlists, board layouts, CAD
-files, configuration files, documentation that describes Physical Object
-forms or Object forms, and any information in any medium or format.
+1.5 "Source" form shall mean the preferred form for making modifications, including, but not limited to, source code, netlists, board layouts, CAD files, configuration files, documentation that describes Physical Object forms or Object forms, and any information in any medium or format.
 
-1.6 "Object" form shall mean any form resulting from mechanical
-transformation or translation of a Source form, including but not limited
-to compiled object code, generated documentation, and conversions to other
-media types.
+1.6 "Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
 
-1.7 "Work" means the work of authorship or design, whether in Source,
-Object, or Physical Object form, made available under the License, as
-indicated by a notice relating to Rights that is included in or attached to
-the Work (an example is provided in Appendix A below). The Work may include
-a Physical Object form, and the notice may be included or attached as
-physical documentation, in digital form, or in any other format.
+1.7 "Work" means the work of authorship or design, whether in Source, Object, or Physical Object form, made available under the License, as indicated by a notice relating to Rights that is included in or attached to the Work (an example is provided in Appendix A below). The Work may include a Physical Object form, and the notice may be included or attached as physical documentation, in digital form, or in any other format.
 
-1.8 "Physical Object Form" means any physical object, material, or physical
-representation resulting from the application of a Source form to physical
-material, including but not limited to an instantiated hardware design,
-mould, artwork, or semiconductor topography (mask work).
+1.8 "Physical Object Form" means any physical object, material, or physical representation resulting from the application of a Source form to physical material, including but not limited to an instantiated hardware design, mould, artwork, or semiconductor topography (mask work).
 
-1.9 "Derivative Works" means any work, whether in Source or Object form,
-that is based on (or derived from) the Work and for which the editorial
-revisions, annotations, elaborations, or other modifications represent, as a
-whole, an original work of authorship or design. For the purposes of this
-License, Derivative Works shall not include works that remain reversibly
-separable from, or merely link (or bind by name) to, or physically connect
-to or interoperate with the interfaces of, the Work and Derivative Works
-thereof.
+1.9 "Derivative Works" means any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship or design. For the purposes of this License, Derivative Works shall not include works that remain reversibly separable from, or merely link (or bind by name) to, or physically connect to or interoperate with the interfaces of, the Work and Derivative Works thereof.
 
-1.10 "Contribution" means any work of authorship or design, including the
-original version of the Work and any modifications or additions to that
-Work or Derivative Works thereof, that is intentionally submitted to Right
-Holder for inclusion in the Work by the Rights owner or by an individual or
-Legal Entity authorized to submit on behalf of the Rights owner. For the
-purposes of this definition, "submitted" means any form of electronic,
-verbal, or written communication sent to the Right Holder or its
-representatives, including but not limited to communication on electronic
-mailing lists, source code control systems, and issue tracking systems that
-are managed by, or on behalf of, the Right Holder for the purpose of
-discussing and improving the Work, but excluding communication that is
-conspicuously marked or otherwise designated in writing by the Rights owner
-as "Not a Contribution."
+1.10 "Contribution" means any work of authorship or design, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Right Holder for inclusion in the Work by the Rights owner or by an individual or Legal Entity authorized to submit on behalf of the Rights owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Right Holder or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Right Holder for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the Rights owner as "Not a Contribution."
 
-1.11 "Contributor" means the Right Holder and any individual or Legal Entity
-on whose behalf a Contribution has been received by the Right Holder and
-subsequently incorporated into the Work, where such individual or Legal
-Entity grants Rights under this License with respect to that Contribution.
+1.11 "Contributor" means the Right Holder and any individual or Legal Entity on whose behalf a Contribution has been received by the Right Holder and subsequently incorporated into the Work, where such individual or Legal Entity grants Rights under this License with respect to that Contribution.
 
-1.12 "Rights" means copyright and any similar rights, including Design
-Rights (whether registered or unregistered), rights in semiconductor
-topographies (mask works), database rights, Trademark Rights, and Patents,
-provided that Trademark Rights are subject to Section 8.
+1.12 "Rights" means copyright and any similar rights, including Design Rights (whether registered or unregistered), rights in semiconductor topographies (mask works), database rights, Trademark Rights, and Patents, provided that Trademark Rights are subject to Section 8.
 
-1.13 "Design" means any intellectual property right that grants an
-exclusive or monopoly right in respect of a design, including, without
-limitation, Industrial Designs and Layout-Designs (Topographies) of
-Integrated Circuits, but excluding copyright, patent, and trademark rights.
+1.13 "Design" means any intellectual property right that grants an exclusive or monopoly right in respect of a design, including, without limitation, Industrial Designs and Layout-Designs (Topographies) of Integrated Circuits, but excluding copyright, patent, and trademark rights.
 
-1.14 "Additional License Terms and Conditions" means this License together
-with any additional or different terms and conditions that a Contributor
-attaches, in the form of an addendum, rider, or other supplemental terms,
-subject to the terms and conditions of this License. For the avoidance of
-doubt, "Additional License Terms and Conditions" excludes any terms that
-would constitute Different License Terms and Conditions as defined in
-Section 1.15.
+1.14 "Additional License Terms and Conditions" means this License together with any additional or different terms and conditions that a Contributor attaches, in the form of an addendum, rider, or other supplemental terms, subject to the terms and conditions of this License. For the avoidance of doubt, "Additional License Terms and Conditions" excludes any terms that would constitute Different License Terms and Conditions as defined in Section 1.15.
 
-1.15 "Different License Terms and Conditions" means any terms or conditions
-that do not originate from this License or the Additional License Terms.
+1.15 "Different License Terms and Conditions" means any terms or conditions that do not originate from this License or the Additional License Terms.
 
-1.16 "Successor" means any person or entity that, at any time, acquires,
-receives, succeeds to, inherits, is assigned, transferred, or otherwise
-becomes the holder or controller of any Rights, whether by agreement,
-operation of law, merger, consolidation, reorganization, succession,
-assignment, transfer, or otherwise, and includes any person or entity that
-subsequently acquires or holds such Rights, in whole or in part.
+1.16 "Successor" means any individual or Legal Entity that, at any time, acquires, receives, succeeds to, inherits, is assigned, transferred, or otherwise becomes the holder or controller of any Rights, whether by agreement, operation of law, merger, consolidation, reorganization, succession, assignment, transfer, or otherwise, and includes any individual or Legal Entity that subsequently acquires or holds such Rights, in whole or in part.
 
 2. GRANT OF RIGHTS LICENSE
 ---------------------------
 
-Subject to the terms and conditions of this License, each Contributor
-hereby grants to You a perpetual, worldwide, non-exclusive, no-charge,
-royalty-free license under the Rights to reproduce, prepare Derivative
-Works of, make, adapt, repair, publicly display, publicly perform,
-sublicense, and distribute the Work and such Derivative Works in Source or
-Object form, or in Physical Object Form, and otherwise to do anything in
-relation to the Work that would, in the absence of this License, require
-authorization under the Rights. This grant shall not be subject to
-termination, and shall remain free of termination, except where this
-License, in another Section hereof, expressly and specifically provides
-otherwise, subject to the following:
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free license under the Rights to reproduce, prepare Derivative Works of, make, adapt, repair, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form, or in Physical Object Form, and otherwise to do anything in relation to the Work that would, in the absence of this License, require authorization under the Rights. This grant shall not be subject to termination, and shall remain free of termination, except where this License, in another Section hereof, expressly and specifically provides otherwise, subject to the following:
 
-(a) Copyright and Similar Rights. Except as provided in subsections (b) and
-    (c), the license granted under this Section is irrevocable and applies
-    to the full scope of each Contributor's Rights in the Work, except that
-    Trademark Rights are governed exclusively by subsection (c).
+(a) Copyright and Similar Rights. Except as provided in subsections (b) and (c), the license granted under this Section is irrevocable and applies to the full scope of each Contributor's Rights in the Work, except that Trademark Rights are governed exclusively by subsection (c).
 
-(b) Design. To the extent a Contributor's Rights include Design embodied in
-the Work and disclosed by the Source form, the license granted under this
-Section with respect to such Design:
+(b) Design. To the extent a Contributor's Rights include Design embodied in the Work and disclosed by the Source form, the license granted under this Section with respect to such Design:
 
     (i) is irrevocable;
 
-    (ii) applies only to those Design claims licensable by such Contributor
-         that are necessarily infringed by their Contribution(s) alone or
-         by combination of their Contribution(s) with the Work to which
-         such Contribution(s) was submitted;
+    (ii) applies only to those Design claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted;
 
-    (iii) extends to modification of the Design and the creation of
-          original designs based on the Work, with any such modification
-          or original design itself constituting a Derivative Work for
-          purposes of this License and subject, as such, to the
-          redistribution conditions of Section 4;
+    (iii) extends to modification of the Design and the creation of original designs based on the Work, with any such modification or original design itself constituting a Derivative Work for purposes of this License and subject, as such, to the redistribution conditions of Section 4;
 
-    (iv) with respect to an Object form, grants rights in any Design
-         embodied therein only to the extent that the Right Holder has
-         disclosed such Design through the Source form;
+    (iv) with respect to an Object form, grants rights in any Design embodied therein only to the extent that the Right Holder has disclosed such Design through the Source form;
 
-    (v) with respect to a Physical Object Form, grants rights in any
-        Design embodied therein only to the extent that the Right Holder
-        has disclosed such Design through the Source form;
+    (v) with respect to a Physical Object Form, grants rights in any Design embodied therein only to the extent that the Right Holder has disclosed such Design through the Source form;
 
-    (vi) where You receive only the Source form, grants rights in any
-         Design embodied therein only to the extent that such Design is
-         disclosed in that Source form; and
+    (vi) where You receive only the Source form, grants rights in any Design embodied therein only to the extent that such Design is disclosed in that Source form; and
 
-    (vii) nothing in this subsection (b) grants You any right to require,
-          compel, or otherwise extend disclosure of the Source form of the
-          Work or any Design embodied in Physical Object Form.
+    (vii) nothing in this subsection (b) grants You any right to require, compel, or otherwise extend disclosure of the Source form of the Work or any Design embodied in Physical Object Form.
 
-(c) Trademarks. Notwithstanding subsection (a), the license granted under
-    this Section with respect to Trademark Rights is limited to the uses
-    expressly permitted under Section 8. No broader license to use,
-    reproduce, display, or sublicense any trade name, trademark, service
-    mark, or product name of the Right Holder is granted under this
-    Section 2 or elsewhere in this License.
+(c) Trademarks. Notwithstanding subsection (a), the license granted under this Section with respect to Trademark Rights is limited to the uses expressly permitted under Section 8. No broader license to use, reproduce, display, or sublicense any trade name, trademark, service mark, or product name of the Right Holder is granted under this Section 2 or elsewhere in this License.
 
-(d) Patents. Notwithstanding subsection (a), any rights granted under this
-    Section with respect to Patents, together with any patent license
-    granted under Section 3, shall be read and construed together as a
-    single grant of rights under this License. Sections 2 and 3 shall both
-    apply to such rights and shall be interpreted consistently with one
-    another, with the terms and conditions of both Sections applying to the
-    extent applicable to Patents.
+(d) Patents. Notwithstanding subsection (a), any rights granted under this Section with respect to Patents, together with any patent license granted under Section 3, shall be read and construed together as a single grant of rights under this License. Sections 2 and 3 shall both apply to such rights and shall be interpreted consistently with one another, with the terms and conditions of both Sections applying to the extent applicable to Patents.
 
-(e) Successors and Assigns. The perpetual and irrevocable nature of the
-    grant made under this Section 2 binds every Successor of a Contributor,
-    without exception. No Successor â€” including any person or entity that
-    acquires, receives, succeeds to, inherits, is assigned, or is
-    transferred any Rights in the Work, whether by agreement, operation of
-    law, merger, consolidation, reorganization, bankruptcy, foreclosure,
-    succession, assignment, transfer, or otherwise, and regardless of
-    whether such Successor had notice of this License â€” may terminate,
-    revoke, rescind, suspend, or otherwise limit, impair, or diminish the
-    license granted under this Section 2 or the patent license granted
-    under Section 3, in whole or in part. This grant runs with the Rights,
-    survives any change in ownership or control of the Rights, and shall
-    remain perpetual and irrevocable in the hands of any and all Successors
-    in perpetuity, except only where this License, in another Section
-    hereof, expressly and specifically provides otherwise.
+(e) Successors and Assigns. The perpetual and irrevocable nature of the grant made under this Section 2 binds every Successor of a Contributor, without exception. No Successor, including any individual or Legal Entity that acquires, receives, succeeds to, inherits, is assigned, or is transferred any Rights in the Work, whether by agreement, operation of law, merger, consolidation, reorganization, bankruptcy, foreclosure, succession, assignment, transfer, or otherwise, and regardless of whether such Successor had notice of this License, may terminate, revoke, rescind, suspend, or otherwise limit, impair, or diminish the license granted under this Section 2 or the patent license granted under Section 3, in whole or in part. This grant runs with the Rights, survives any change in ownership or control of the Rights, and shall remain perpetual and irrevocable in the hands of any and all Successors in perpetuity, except only where this License, in another Section hereof, expressly and specifically provides otherwise.
 
 3. GRANT OF PATENT LICENSE
 ---------------------------
 
-Subject to the terms and conditions of this License, each Contributor
-hereby grants to You a perpetual, worldwide, non-exclusive, no-charge,
-royalty-free, irrevocable (except as stated in this Section) patent license
-to make, have made, use, offer to sell, sell, import, and otherwise
-transfer the Work, where such license applies only to those patent claims
-licensable by such Contributor that are necessarily infringed by their
-Contribution(s) alone or by combination of their Contribution(s) with the
-Work to which such Contribution(s) was submitted. If You institute patent
-litigation against any entity (including a cross-claim or counterclaim in a
-lawsuit) alleging that the Work or a Contribution incorporated within the
-Work constitutes direct or contributory patent infringement, then any
-patent licenses granted to You under this License for that Work shall
-terminate as of the date such litigation is filed.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this Section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
 
 4. REDISTRIBUTION
 ------------------
 
-You may reproduce and distribute copies of the Work or Derivative Works
-thereof in any medium, with or without modifications, and in Source or
-Object form, provided that You meet the following conditions:
+You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
 
-(a) You must give any other recipients of the Work or Derivative Works a
-copy of this License. Such copy may be conveyed in any medium or format
-reasonably capable of communicating the terms of this License and is not
-required to be provided in a text file or in any particular file format;
-and
+(a) You must give any other recipients of the Work or Derivative Works a copy of this License. Such copy may be conveyed in any medium or format reasonably capable of communicating the terms of this License and is not required to be provided in a text file or in any particular file format; and
 
-(b) You must retain, in the Source form of any Derivative Works that You
-distribute, all copyright, patent, trademark, and attribution notices from
-the Source form of the Work, excluding those notices that do not pertain
-to any part of the Derivative Works; and
+(b) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
 
-(c) If the Work includes a "NOTICE" as part of its distribution, then any
-Derivative Works that You distribute must include, in a readable form, a
-copy of the attribution notices contained within such NOTICE, excluding
-those notices that do not pertain to any part of the Derivative Works. Such
-attribution notices may be conveyed in any medium or format reasonably
-capable of communicating the required information and need not be provided
-in a text file or any particular file format. The notices may be provided
-in a NOTICE or equivalent attribution accompanying the Derivative Works; in
-the Source form or documentation, if provided with the Derivative Works; or
-through a display, interface, screen, or other presentation generated by
-the Derivative Works, if and wherever such third-party notices normally
-appear. The contents of the NOTICE are for informational purposes only and
-do not modify the License. You may add Your own attribution notices to
-Derivative Works that You distribute, alongside or as an addendum to the
-attribution notices from the Work, provided that such additional
-attribution notices cannot be construed as modifying the License.
+(c) If the Work includes a "NOTICE" as part of its distribution, then any Derivative Works that You distribute must include, in a readable form, a copy of the attribution notices contained within such NOTICE, excluding those notices that do not pertain to any part of the Derivative Works. Such attribution notices may be conveyed in any medium or format reasonably capable of communicating the required information and need not be provided in a text file or any particular file format. The notices may be provided in a NOTICE or equivalent attribution accompanying the Derivative Works; in the Source form or documentation, if provided with the Derivative Works; or through a display, interface, screen, or other presentation generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE are for informational purposes only and do not modify the License. You may add Your own attribution notices to Derivative Works that You distribute, alongside or as an addendum to the attribution notices from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
 
-You may add Your own copyright or other statement pertaining to Rights in
-Your modifications and may provide Additional License Terms and Different
-License Terms and Conditions governing the use, reproduction, or
-distribution of Your modifications or any such Derivative Works as a whole,
-provided that Your use, reproduction, and distribution of the Work
-otherwise comply with the conditions stated in this License.
+You may add Your own copyright or other statement pertaining to Rights in Your modifications and may provide Additional License Terms and Different License Terms and Conditions governing the use, reproduction, or distribution of Your modifications or any such Derivative Works as a whole, provided that Your use, reproduction, and distribution of the Work otherwise comply with the conditions stated in this License.
 
 5. SUBMISSION OF CONTRIBUTIONS
 -------------------------------
 
-Unless You explicitly state otherwise, any Contribution intentionally
-submitted for inclusion in the Work by You to the Right Holder shall be
-under the terms and conditions of this License, without any additional
-terms or conditions. Notwithstanding the above, nothing herein shall
-supersede or modify the terms of any separate license agreement You may
-have executed with the Right Holder regarding such Contributions.
+Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Right Holder shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement You may have executed with the Right Holder regarding such Contributions.
 
 6. MORAL RIGHTS
 ----------------
 
-6.1 Waiver Where Permitted. To the extent that any moral rights, rights of
-attribution or integrity, rights of publicity or privacy, or similar
-personality rights subsist in the Work or a Contribution and would
-otherwise be exercisable against You, each Right Holder and Contributor
-waives those rights to the fullest extent permitted by applicable law.
+6.1 Waiver Where Permitted. To the extent that any moral rights, rights of attribution or integrity, rights of publicity or privacy, or similar personality rights subsist in the Work or a Contribution and would otherwise be exercisable against You, each Right Holder and Contributor waives those rights to the fullest extent permitted by applicable law.
 
-6.2 Non-Assertion Where Waiver Is Not Permitted. To the extent that any
-such right cannot be waived under applicable law, the relevant Right Holder
-or Contributor agrees not to assert that right against You for so long as
-You exercise the rights granted under this License and comply with its
-applicable terms.
+6.2 Non-Assertion Where Waiver Is Not Permitted. To the extent that any such right cannot be waived under applicable law, the relevant Right Holder or Contributor agrees not to assert that right against You for so long as You exercise the rights granted under this License and comply with its applicable terms.
 
-6.3 Scope. The waiver and non-assertion under this Section apply only with
-respect to the Work and the relevant Contributor's own Contribution, as
-applicable, and only in relation to You. Nothing in this Section waives or
-limits any right with respect to a person other than You or with respect
-to a work other than the Work or the relevant Contribution.
+6.3 Scope. The waiver and non-assertion under this Section apply only with respect to the Work and the relevant Contributor's own Contribution, as applicable, and only in relation to You. Nothing in this Section waives or limits any right with respect to a person other than You or with respect to a work other than the Work or the relevant Contribution.
 
 7. SEVERABILITY
 -----------------
 
-If any provision of this License is held to be invalid or unenforceable,
-that provision will be enforced to the maximum extent permissible, and the
-remaining provisions will remain in full force and effect.
+If any provision of this License is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.
 
 8. TRADEMARKS
 ---------------
 
-This License does not grant permission to use the trade names, trademarks,
-service marks, or product names of the Right Holder, except as required
-for reasonable and customary use in describing the origin of the Work or
-for reproducing the contents of the NOTICE in any format or medium.
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Right Holder, except as required for reasonable and customary use in describing the origin of the Work or for reproducing the contents of the NOTICE in any format or medium.
 
 9. DISCLAIMER OF WARRANTY
 ----------------------------
 
-Unless required by applicable law or agreed to in writing, Right Holder
-provides the Work (and each Contributor provides its Contributions) on an
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
-or implied, including, without limitation, any warranties or conditions of
-TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR
-PURPOSE. You are solely responsible for determining the appropriateness of
-using or redistributing the Work and assume any risks associated with Your
-exercise of permissions under this License.
+Unless required by applicable law or agreed to in writing, Right Holder provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
 10. LIMITATION OF LIABILITY
 -----------------------------
 
-In no event and under no legal theory, whether in tort (including
-negligence), contract, or otherwise, unless required by applicable law
-(such as deliberate and grossly negligent acts) or agreed to in writing,
-shall any Contributor be liable to You for damages, including any direct,
-indirect, special, incidental, or consequential damages of any character
-arising as a result of this License or out of the use or inability to use
-the Work (including but not limited to damages for loss of goodwill, work
-stoppage, computer failure or malfunction, or any and all other commercial
-damages or losses), even if such Contributor has been advised of the
-possibility of such damages.
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
 11. ACCEPTING WARRANTY OR ADDITIONAL LIABILITY
 -------------------------------------------------
 
-While redistributing the Work or Derivative Works thereof, You may choose
-to offer, and charge a fee for, acceptance of support, warranty, indemnity,
-or other liability obligations and/or rights consistent with this License.
-However, in accepting such obligations, You may act only on Your own
-behalf and on Your sole responsibility, not on behalf of any other
-Contributor, and only if You agree to indemnify, defend, and hold each
-Contributor harmless for any liability incurred by, or claims asserted
-against, such Contributor by reason of Your accepting any such warranty or
-additional liability.
+While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of Your accepting any such warranty or additional liability.
 
 ------------------------------------------------------------------------------
 END OF TERMS AND CONDITIONS
@@ -342,25 +136,10 @@ END OF TERMS AND CONDITIONS
 APPENDIX A: HOW TO APPLY THIS LICENSE TO YOUR WORK
 ------------------------------------------------------------------------------
 
-To apply the 21st Century Free Liberation License to your Work, attach the
-following notice, with the fields enclosed by brackets [] replaced with
-your own identifying information. (Don't include the brackets.) The text
-should be enclosed in the comment syntax appropriate to the file or media
-format. It is also recommended that a file or component name and a brief
-description of purpose be included on the same "printed page" as the
-notice, for easier identification within third-party archives. Inclusion of
-the [URL] line is voluntary. If no URL is available or you prefer not to
-include one, you may delete that line, along with the word "at" that
-precedes it, before applying the notice to your Work; doing so does not
-affect the validity or scope of the License.
+To apply the 21st Century Free Liberation License to your Work, attach the following notice, with the fields enclosed by brackets [] replaced with your own identifying information. (Don't include the brackets.) The text should be enclosed in the comment syntax appropriate to the file or media format. It is also recommended that a file or component name and a brief description of purpose be included on the same "printed page" as the notice, for easier identification within third-party archives. Inclusion of the [URL] line is voluntary. If no URL is available or you prefer not to include one, you may delete that line, along with the word "at" that precedes it, before applying the notice to your Work; doing so does not affect the validity or scope of the License.
 
 Copyright [yyyy] [name of Rights owner]
 
-Licensed under the 21st Century Free Liberation License, Version 1.0 (the
-"License"); you may not use this file except in compliance with the
-License. You may obtain a copy of the License at [URL] (optional).
+Licensed under the 21st Century Free Liberation License, Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [URL] (optional).
 
-Unless required by applicable law or agreed to in writing, the Work is
-distributed under the License on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied. See the License for the
-specific language governing permissions and limitations under the License.
+Unless required by applicable law or agreed to in writing, the Work is distributed under the License on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
