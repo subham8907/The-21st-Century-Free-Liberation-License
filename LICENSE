@@ -28,11 +28,12 @@ beneficial ownership of such entity.
 1.4 "You" or "Your" means an individual or Legal Entity exercising
 permissions granted by this License.
 
-1.5 "Source" form shall mean the preferred form for making
-modifications, including, but not limited to, source code, netlists,
-board layouts, CAD files, configuration files, Documentation that
-describes Physical Object forms or Object forms, and any information in
-any medium or format.
+1.5 1.5 "Source" form means the preferred form for making modifications to the
+Work, including, but not limited to, source code, netlists, configuration
+files, and Documentation as defined in Section 1.17, including
+Documentation that describes, specifies, represents, or is used to create,
+modify, manufacture, or reproduce an Object form or Physical Object Form
+of the Work.
 
 1.6 "Object" form shall mean any form resulting from mechanical
 transformation or translation of a Source form, including but not
