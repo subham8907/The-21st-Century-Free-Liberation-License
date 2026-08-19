@@ -100,11 +100,11 @@ Section 1.15.
 that do not originate from this License or the Additional License Terms.
 
 1.16 "Successor" means any person or entity that, at any time, acquires,
-receives, succeeds to, inherits, is assigned, transferred, or otherwise becomesthe holder
-or controller of any Rights, whether by agreement, operation of law, merger, consolidation,
-reorganization, succession, assignment, transfer, or otherwise, 
-and includes any person or entity that subsequently acquires or holds such Rights,
-in whole or in part.
+receives, succeeds to, inherits, is assigned, transferred, or otherwise
+becomes the holder or controller of any Rights, whether by agreement,
+operation of law, merger, consolidation, reorganization, succession,
+assignment, transfer, or otherwise, and includes any person or entity that
+subsequently acquires or holds such Rights, in whole or in part.
 
 2. GRANT OF RIGHTS LICENSE
 ---------------------------
@@ -173,6 +173,22 @@ Section with respect to such Design:
     apply to such rights and shall be interpreted consistently with one
     another, with the terms and conditions of both Sections applying to the
     extent applicable to Patents.
+
+(e) Successors and Assigns. The perpetual and irrevocable nature of the
+    grant made under this Section 2 binds every Successor of a Contributor,
+    without exception. No Successor â€” including any person or entity that
+    acquires, receives, succeeds to, inherits, is assigned, or is
+    transferred any Rights in the Work, whether by agreement, operation of
+    law, merger, consolidation, reorganization, bankruptcy, foreclosure,
+    succession, assignment, transfer, or otherwise, and regardless of
+    whether such Successor had notice of this License â€” may terminate,
+    revoke, rescind, suspend, or otherwise limit, impair, or diminish the
+    license granted under this Section 2 or the patent license granted
+    under Section 3, in whole or in part. This grant runs with the Rights,
+    survives any change in ownership or control of the Rights, and shall
+    remain perpetual and irrevocable in the hands of any and all Successors
+    in perpetuity, except only where this License, in another Section
+    hereof, expressly and specifically provides otherwise.
 
 3. GRANT OF PATENT LICENSE
 ---------------------------
