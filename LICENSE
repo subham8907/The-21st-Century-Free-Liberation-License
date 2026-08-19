@@ -11,7 +11,7 @@
 
 1.1 "License" means this document, the 21st Century Free Liberation
 License, together with the terms and conditions for use, reproduction,
-and distribution set forth in Sections 1 through 11 below, including
+and distribution set forth in Sections 1 through 13 below, including
 their subsections and Appendix A.
 
 1.2 "Right Holder" means the owner of the Rights, or an entity authorized
@@ -347,6 +347,25 @@ any other Contributor, and only if You agree to indemnify, defend, and
 hold each Contributor harmless for any liability incurred by, or claims
 asserted against, such Contributor by reason of Your accepting any such
 warranty or additional liability.
+
+
+12. SUCCESSOR
+------------------------------------------------
+
+A Successor shall have no right to terminate this License in the absence
+of a breach of its terms and conditions.
+
+13. TERMINATION
+------------------------------------------------
+
+This License shall terminate only upon a breach of Section 2 or Section 3.
+
+Any breach of any other term or condition of this License shall not result
+in termination of this License, but shall be treated as an infringement.
+
+If this License terminates as a result of a breach of Section 2 or Section 3,
+any continued exercise of rights granted under this License after such
+termination shall also be treated as an infringement.
 
 ------------------------------------------------------------------------------
                           END OF TERMS AND CONDITIONS
