@@ -28,14 +28,15 @@ such entity.
 1.4 "You" or "Your" means an individual or Legal Entity exercising
 permissions granted by this License.
 
-1.5 “Source” form shall mean the preferred form for making modifications,
-including, but not limited to, source code, netlists, board layouts, CAD files, configuration files, 
-documentation that describes Physical Object forms or Object forms,
-and any information in any medium or format.
+1.5 "Source" form shall mean the preferred form for making modifications,
+including, but not limited to, source code, netlists, board layouts, CAD
+files, configuration files, documentation that describes Physical Object
+forms or Object forms, and any information in any medium or format.
 
-1.6 "Object" form shall mean any form resulting from mechanical transformation
-or translation of a Source form, including but not limited to compiled object code,
-generated documentation, and conversions to other media types.
+1.6 "Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, including but not limited
+to compiled object code, generated documentation, and conversions to other
+media types.
 
 1.7 "Work" means the work of authorship or design, whether in Source,
 Object, or Physical Object form, made available under the License, as
@@ -87,53 +88,15 @@ exclusive or monopoly right in respect of a design, including, without
 limitation, Industrial Designs and Layout-Designs (Topographies) of
 Integrated Circuits, but excluding copyright, patent, and trademark rights.
 
-1.14 "Change of Control" means any transaction or series of related
-transactions resulting in a person or group acquiring, directly or
-indirectly, the power to direct the management or policies of an entity,
-whether through ownership of voting securities, contract, or otherwise.
-
-1.15 "Successor" means, as the context requires, any of the following:
-
-(a) Assignees and Transferees of Rights. Any person or Legal Entity that
-acquires, in whole or in part, by assignment, transfer, exclusive license,
-operation of law, court order, or otherwise, any copyright, patent,
-trademark, or other intellectual property right held by a Right Holder or
-Contributor in or relating to the Work or a Contribution â€” excluding, for
-the avoidance of doubt, any non-exclusive licensee who acquires no greater
-rights than those already granted under this License;
-
-(b) Successors of Natural Persons. If a Right Holder or Contributor is a
-natural person, that person's estate, heirs, executors, administrators,
-personal representatives, guardians, conservators, trustees, beneficiaries,
-or other lawful successors or assigns, whether arising by will, intestate
-succession, trust instrument, court order, incapacity, or otherwise;
-
-(c) Successors of Legal Entities. Any person or Legal Entity that succeeds
-to, acquires, assumes, or continues all or substantially all of the rights,
-assets, obligations, business, or legal interests of a Right Holder or
-Contributor that is a Legal Entity, whether by merger, acquisition,
-consolidation, amalgamation, reorganization, recapitalization, conversion,
-division, spin-off, sale or transfer of substantially all assets,
-dissolution, liquidation, bankruptcy, insolvency proceeding, or Change of
-Control, or by any other transaction or series of related transactions
-having a similar effect;
-
-(d) Chain of Title. Any Successor (under any of the foregoing clauses) of a
-Successor, without limitation as to the number of intervening transfers or
-remoteness in time. For the avoidance of doubt, no Right Holder or
-Contributor may avoid the obligations of this License by structuring a
-transaction so as to fall outside the foregoing definition where the
-substance of the transaction is a transfer described in this definition.
-
-1.16 "Additional License Terms and Conditions" means this License together
+1.14 "Additional License Terms and Conditions" means this License together
 with any additional or different terms and conditions that a Contributor
 attaches, in the form of an addendum, rider, or other supplemental terms,
 subject to the terms and conditions of this License. For the avoidance of
 doubt, "Additional License Terms and Conditions" excludes any terms that
 would constitute Different License Terms and Conditions as defined in
-Section 1.17.
+Section 1.15.
 
-1.17 "Different License Terms and Conditions" means any terms or conditions
+1.15 "Different License Terms and Conditions" means any terms or conditions
 that do not originate from this License or the Additional License Terms.
 
 2. GRANT OF RIGHTS LICENSE
@@ -168,7 +131,7 @@ Section with respect to such Design:
           original designs based on the Work, with any such modification
           or original design itself constituting a Derivative Work for
           purposes of this License and subject, as such, to the
-          redistribution conditions of Section 5;
+          redistribution conditions of Section 4;
 
     (iv) with respect to an Object form, grants rights in any Design
          embodied therein only to the extent that the Right Holder has
@@ -202,7 +165,7 @@ Section with respect to such Design:
     extent applicable to Patents.
 
 3. GRANT OF PATENT LICENSE
-----------------------------
+---------------------------
 
 Subject to the terms and conditions of this License, each Contributor
 hereby grants to You a perpetual, worldwide, non-exclusive, no-charge,
@@ -218,76 +181,8 @@ Work constitutes direct or contributory patent infringement, then any
 patent licenses granted to You under this License for that Work shall
 terminate as of the date such litigation is filed.
 
-4. CONTINUITY OF LICENSE
---------------------------
-
-The licenses, permissions, rights, and obligations arising under this
-License are intended to remain effective notwithstanding any transfer,
-succession, change in ownership or control, or other event affecting a
-Right Holder, Contributor, or holder of Rights in the Work or any
-Contribution. Except to the extent that applicable law expressly provides
-otherwise, no such event shall revoke, diminish, impair, suspend, or
-otherwise adversely affect any license or permission previously granted to
-You. Any Successor shall be bound to honor grants previously made under
-this License, and any statutory termination of such licenses or permissions
-shall have only the effect expressly provided in this Section.
-
-4.1 The Right Holder and each Contributor hereby promise that no transfer,
-succession, death, dissolution, merger, acquisition, reorganization,
-bankruptcy, insolvency proceeding, Change of Control, or other event
-described in the definition of "Successor" shall diminish, suspend,
-terminate, impair, or otherwise affect any license previously granted to
-You.
-
-4.2 No Successor or Contributor may unilaterally revoke, narrow, condition,
-or impose additional restrictions on any license or permission previously
-granted to You under Sections 2 and 3. The Right Holder and each
-Contributor further agree that they shall not themselves take any action
-that would have the effect of revoking, narrowing, conditioning, or
-imposing additional restrictions on any such license or permission
-previously granted to You. This Section 4 shall not be construed as an
-anti-assignment provision, and no transfer described in the definition of
-"Successor" shall be deemed void, invalid, or unenforceable by reason of
-any prohibition on assignment that might otherwise apply under this License
-or applicable law.
-
-4.3 The Right Holder and each Contributor hereby grant You the right to
-refuse any request made by a Successor to alter, remove, or restate any
-existing notice or any instruction or prescribed method of application
-stated in Appendix A or Sections 5(b) and 5(c), whether in the Work or in
-any Derivative Works that You received. The Right Holder and each
-Contributor further agree that they shall not themselves require or compel
-You to make any such alteration, removal, or restatement, and Your refusal
-to comply with any such request shall not constitute a breach of this
-License.
-
-4.4 Territorial Effect of Statutory Termination. If this License is
-terminated by operation of a statutory right, and that statutory right
-arises under the applicable law of a specific territory, such termination
-shall be effective only with respect to that specific territory, and only
-where a Contributor has invoked the applicable law of that specific
-territory. Such termination shall not affect, and shall not be construed to
-affect, the validity, effectiveness, or continuity of this License in any
-other territory.
-
-4.5 Merger and Corporate Restructuring. For the avoidance of doubt, the
-term "Successor" and the protections of this Section 4 apply regardless of
-the legal form of the transaction, including a direct merger, forward
-merger, forward triangular merger, or reverse triangular merger, and
-regardless of whether the Right Holder, Contributor, or any Legal Entity
-holding Rights in the Work is the surviving entity in such transaction. No
-characterization of a transaction as not constituting an "assignment by
-operation of law" under applicable corporate law shall be construed to
-remove that transaction from the scope of this Section 4.
-
-4.6 No Abandonment as Circumvention. A Successor's cessation of operations,
-discontinuation of the Work, or reduction to a holding entity shall not, by
-itself, be construed to terminate, suspend, or diminish any license granted
-under this Section 4, nor shall it relieve a Successor of its obligations
-under Sections 4.1 through 4.3.
-
-5. REDISTRIBUTION
--------------------
+4. REDISTRIBUTION
+------------------
 
 You may reproduce and distribute copies of the Work or Derivative Works
 thereof in any medium, with or without modifications, and in Source or
@@ -328,8 +223,8 @@ distribution of Your modifications or any such Derivative Works as a whole,
 provided that Your use, reproduction, and distribution of the Work
 otherwise comply with the conditions stated in this License.
 
-6. SUBMISSION OF CONTRIBUTIONS
---------------------------------
+5. SUBMISSION OF CONTRIBUTIONS
+-------------------------------
 
 Unless You explicitly state otherwise, any Contribution intentionally
 submitted for inclusion in the Work by You to the Right Holder shall be
@@ -338,50 +233,35 @@ terms or conditions. Notwithstanding the above, nothing herein shall
 supersede or modify the terms of any separate license agreement You may
 have executed with the Right Holder regarding such Contributions.
 
-7. MORAL RIGHTS
------------------
+6. MORAL RIGHTS
+----------------
 
-7.1 Waiver Where Permitted. To the extent that any moral rights, rights of
+6.1 Waiver Where Permitted. To the extent that any moral rights, rights of
 attribution or integrity, rights of publicity or privacy, or similar
 personality rights subsist in the Work or a Contribution and would
 otherwise be exercisable against You, each Right Holder and Contributor
 waives those rights to the fullest extent permitted by applicable law.
 
-7.2 Non-Assertion Where Waiver Is Not Permitted. To the extent that any
+6.2 Non-Assertion Where Waiver Is Not Permitted. To the extent that any
 such right cannot be waived under applicable law, the relevant Right Holder
 or Contributor agrees not to assert that right against You for so long as
 You exercise the rights granted under this License and comply with its
 applicable terms.
 
-7.3 Scope. The waiver and non-assertion under this Section apply only with
+6.3 Scope. The waiver and non-assertion under this Section apply only with
 respect to the Work and the relevant Contributor's own Contribution, as
 applicable, and only in relation to You. Nothing in this Section waives or
 limits any right with respect to a person other than You or with respect
 to a work other than the Work or the relevant Contribution.
 
-7.4 Independence from License Termination. The waiver and non-assertion
-under this Section are independent of, and are not conditioned upon, the
-continued effectiveness of any patent license granted under Section 3 of
-this License. The termination of a patent license under Section 3, or any
-other termination or breach under this License, does not reinstate or
-revive any moral-rights claim with respect to uses occurring before that
-termination.
-
-7.5 Binding Effect Upon Succession. To the fullest extent permitted by
-applicable law, the waiver and non-assertion under this Section bind each
-relevant Right Holder's or Contributor's Successors.
-
-7.6 Contributions. By submitting a Contribution, each Contributor agrees to
-be bound by this Section with respect to that Contribution.
-
-8. SEVERABILITY
+7. SEVERABILITY
 -----------------
 
 If any provision of this License is held to be invalid or unenforceable,
 that provision will be enforced to the maximum extent permissible, and the
 remaining provisions will remain in full force and effect.
 
-9. TRADEMARKS
+8. TRADEMARKS
 ---------------
 
 This License does not grant permission to use the trade names, trademarks,
@@ -389,7 +269,7 @@ service marks, or product names of the Right Holder, except as required
 for reasonable and customary use in describing the origin of the Work or
 for reproducing the contents of the NOTICE in any format or medium.
 
-10. DISCLAIMER OF WARRANTY
+9. DISCLAIMER OF WARRANTY
 ----------------------------
 
 Unless required by applicable law or agreed to in writing, Right Holder
@@ -401,7 +281,7 @@ PURPOSE. You are solely responsible for determining the appropriateness of
 using or redistributing the Work and assume any risks associated with Your
 exercise of permissions under this License.
 
-11. LIMITATION OF LIABILITY
+10. LIMITATION OF LIABILITY
 -----------------------------
 
 In no event and under no legal theory, whether in tort (including
@@ -415,7 +295,7 @@ stoppage, computer failure or malfunction, or any and all other commercial
 damages or losses), even if such Contributor has been advised of the
 possibility of such damages.
 
-12. ACCEPTING WARRANTY OR ADDITIONAL LIABILITY
+11. ACCEPTING WARRANTY OR ADDITIONAL LIABILITY
 -------------------------------------------------
 
 While redistributing the Work or Derivative Works thereof, You may choose
