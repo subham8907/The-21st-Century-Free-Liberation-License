@@ -81,7 +81,7 @@ Entity grants Rights under this License with respect to that Contribution.
 1.12 "Rights" means copyright and any similar rights, including Design
 Rights (whether registered or unregistered), rights in semiconductor
 topographies (mask works), database rights, Trademark Rights, and Patents,
-provided that Trademark Rights are subject to Section 9.
+provided that Trademark Rights are subject to Section 8.
 
 1.13 "Design" means any intellectual property right that grants an
 exclusive or monopoly right in respect of a design, including, without
@@ -151,7 +151,7 @@ Section with respect to such Design:
 
 (c) Trademarks. Notwithstanding subsection (a), the license granted under
     this Section with respect to Trademark Rights is limited to the uses
-    expressly permitted under Section 9. No broader license to use,
+    expressly permitted under Section 8. No broader license to use,
     reproduce, display, or sublicense any trade name, trademark, service
     mark, or product name of the Right Holder is granted under this
     Section 2 or elsewhere in this License.
@@ -312,11 +312,11 @@ additional liability.
 This Section amends Sections 2 and 3 by adding the following provisions, 
 which shall apply in addition to the existing provisions of Sections 2 and 3:
 
-“Nothing in this License shall be construed as terminating the License due
+â€œNothing in this License shall be construed as terminating the License due
 to any statutory law of a sovereign territory, provided that the terms of
 this License have not been breached. Any such termination shall be limited
 to the specific sovereign territory or jurisdiction in which such statutory
-law applies.”
+law applies.â€
 
 ------------------------------------------------------------------------------
 END OF TERMS AND CONDITIONS
